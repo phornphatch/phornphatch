@@ -7,7 +7,7 @@
 
 
 <img width="40%" align="right" alt="Github" src="https://github.com/phornphatch/phornphatch/blob/main/assets/profile.jpeg" />
-<h2>A Jr. Software Developer in Helsinki</h2>
+<h3>A Jr. Software Developer in Helsinki</h3>
  <br>
 ✨ I dream of shopping and traveling full-time - unless I'm a materials engineer turned a coder who is continuously upgrading the coding skill. I grew up and        studied in Thailand but currently lives in Finland. 
 <br><br>
