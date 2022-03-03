@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:phornphatch@gmail.com)
 <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.com/phornphatch/phornphatch/Assets/profile.jpeg" />
 
 <br>
 ✨ I dream of shopping and traveling full-time - unless I'm a materials engineer turned a coder who is continuously upgrading the coding skill. I grew up and studied in Thailand but currently lives in Finland. 
