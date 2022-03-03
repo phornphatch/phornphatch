@@ -1,4 +1,4 @@
-# Hi there! I'm ZUMO, a Jr. Software Developer in Helsinki 🚀
+# Hi there! I'm ZUMO. 🚀
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/phornphatch)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phornphatch)
@@ -7,9 +7,10 @@
 
 
 <img width="40%" align="right" alt="Github" src="https://github.com/phornphatch/phornphatch/blob/main/assets/profile.jpeg" />
+ ## A Jr. Software Developer in Helsinki
  <br>
 ✨ I dream of shopping and traveling full-time - unless I'm a materials engineer turned a coder who is continuously upgrading the coding skill. I grew up and        studied in Thailand but currently lives in Finland. 
-<br>
+<br><br>
 Check out My page https://www.facebook.com/findingzumo for more information.😆
 <br><br>
 
