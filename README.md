@@ -7,7 +7,7 @@
 <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
 
 <div>
-  <div>
+  <div width="50%" align="left">
     <br>
     ✨ I dream of shopping and traveling full-time - unless I'm a materials engineer turned a coder who is continuously upgrading the coding skill. I grew up and        studied in Thailand but currently lives in Finland. 
     <br>
