@@ -12,8 +12,8 @@
 ✨ I dream of shopping and traveling full-time - unless I'm a materials engineer turned a coder who is continuously upgrading the coding skill. I grew up and studied in Thailand but currently lives in Finland. Check out My page https://www.facebook.com/findingzumo for more information.😆
 
 <div align="center">
-  <img src='https://github-readme-stats.vercel.app/api?username=keshavsingh4522&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=tokyonight&hide_langs_below=4' />
+  <img src='https://github-readme-stats.vercel.app/api?username=phornphatch&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula&line_height=40'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=phornphatch&layout=compact&bg_color=282a36&text_color=fff&title_color=ff6e96&hide_langs_below=4' />
 </div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phornphatch&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 
