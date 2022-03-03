@@ -15,7 +15,7 @@
 <br>I grew up and studied in Thailand but currently lives in Finland. 
 <br><br>
 I spend all my free time in bed. Not actually sleeping but just laying there for blogging, video editing and watching TV series and movies on Netflix. I also enjoy going for a walk and traveling to new places.
-<br><br><br>
+<br><br>
 Check out My page https://www.facebook.com/findingzumo for more information.😆
 <br><br>
 
