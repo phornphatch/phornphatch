@@ -7,7 +7,7 @@
 
 
 <img width="40%" align="right" alt="Github" src="https://github.com/phornphatch/phornphatch/blob/main/assets/profile.jpeg" />
-<br>
+
 <h3>A Jr. Software Developer in Helsinki</h3>
  <br>
 ✨ I dream of shopping and traveling full-time - unless I'm a materials 
