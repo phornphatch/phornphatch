@@ -9,8 +9,10 @@
 <img width="40%" align="right" alt="Github" src="https://github.com/phornphatch/phornphatch/blob/main/assets/profile.jpeg" />
 <h3>A Jr. Software Developer in Helsinki</h3>
  <br>
-✨ I dream of shopping and traveling full-time - unless I'm a materials engineer turned a coder who is continuously upgrading the coding skill. I grew up and        studied in Thailand but currently lives in Finland. 
-<br><br>
+✨ I dream of shopping and traveling full-time - unless I'm a materials 
+<br>engineer turned a coder who is continuously upgrading the coding skill. 
+<br>I grew up and studied in Thailand but currently lives in Finland. 
+<br><br><br>
 Check out My page https://www.facebook.com/findingzumo for more information.😆
 <br><br>
 
