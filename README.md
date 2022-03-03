@@ -14,9 +14,7 @@
     Check out My page https://www.facebook.com/findingzumo for more information.😆
     <br><br>
   </div>
-  <div width="50%" align="right">
-<img width="30%" align="right" alt="Github" src="https://github.com/phornphatch/phornphatch/blob/main/assets/profile.jpeg" />
-</div>
+
 </div>
 
 <img width="30%" align="right" alt="Github" src="https://github.com/phornphatch/phornphatch/blob/main/assets/profile.jpeg" />
