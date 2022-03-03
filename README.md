@@ -1,5 +1,7 @@
 # Hi there! I'm ZUMO, a Jr. Software Developer in Helsinki 🚀
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 ✨ I dream of shopping and traveling full-time - unless I'm a materials engineer turned a coder who is continuously upgrading the coding skill. I grew up and studied in Thailand but currently lives in Finland. Check out My page https://www.facebook.com/findingzumo for more information.😆
 
 
