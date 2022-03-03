@@ -11,13 +11,17 @@
     <br>
     ✨ I dream of shopping and traveling full-time - unless I'm a materials engineer turned a coder who is continuously upgrading the coding skill. I grew up and        studied in Thailand but currently lives in Finland. 
     <br>
+    Check out My page https://www.facebook.com/findingzumo for more information.😆
+    <br><br>
   </div>
   <div width="50%" align="right">
 <img width="30%" align="center" alt="Github" src="https://github.com/phornphatch/phornphatch/blob/main/assets/profile.jpeg" />
 </div>
 </div>
 
-
+ <br>
+✨ I dream of shopping and traveling full-time - unless I'm a materials engineer turned a coder who is continuously upgrading the coding skill. I grew up and        studied in Thailand but currently lives in Finland. 
+<br>
 Check out My page https://www.facebook.com/findingzumo for more information.😆
 <br><br>
 
