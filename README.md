@@ -21,8 +21,7 @@ Check out My page https://www.facebook.com/findingzumo for more information.😆
 
 <div align="center">
   <img src='https://github-readme-stats.vercel.app/api?username=phornphatch&count_private=true&show_icons=true&theme=dracula&line_height=40'  align="left" />
- [![Zumo's github stats](https://github-readme-stats.vercel.app/api?username=phornphatch&hide=stars,issues&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=phornphatch&theme=tokyonight&hide_langs_below=4&text_color=fff&title_color=ff6e96' />
 </div>
 
-
+ [![Zumo's github stats](https://github-readme-stats.vercel.app/api?username=phornphatch&hide=stars,issues&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
