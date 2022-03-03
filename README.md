@@ -7,7 +7,7 @@
 <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
 
 
-<img width="30%" align="right" pr="50px" alt="Github" src="https://github.com/phornphatch/phornphatch/blob/main/assets/profile.jpeg" />
+<img width="30%" align="right" alt="Github" src="https://github.com/phornphatch/phornphatch/blob/main/assets/profile.jpeg" />
  <br>
 ✨ I dream of shopping and traveling full-time - unless I'm a materials engineer turned a coder who is continuously upgrading the coding skill. I grew up and        studied in Thailand but currently lives in Finland. 
 <br>
