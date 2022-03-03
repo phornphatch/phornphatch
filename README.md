@@ -9,7 +9,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <br>
-✨ I dream of shopping and traveling full-time - unless I'm a materials engineer turned a coder who is continuously upgrading the coding skill. I grew up and studied in Thailand but currently lives in Finland. Check out My page https://www.facebook.com/findingzumo for more information.😆
+✨ I dream of shopping and traveling full-time - unless I'm a materials engineer turned a coder who is continuously upgrading the coding skill. I grew up and studied in Thailand but currently lives in Finland. 
+<br>
+Check out My page https://www.facebook.com/findingzumo for more information.😆
 <br><br>
 <div align="center">
   <img src='https://github-readme-stats.vercel.app/api?username=phornphatch&count_private=true&show_icons=true&theme=dracula&line_height=40'  align="left" />
