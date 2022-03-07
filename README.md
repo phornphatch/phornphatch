@@ -9,7 +9,7 @@
 <img width="40%" align="right" alt="Github" src="https://github.com/phornphatch/phornphatch/blob/main/assets/profile.jpeg" />
 
 <h3>A Jr. Software Developer 🚀</h3>
- <br>
+<br>
 ✨ I dream of shopping and traveling full-time - unless I'm a materials 
 <br>engineer turned a coder who is continuously upgrading the coding skill. 
 <br>I grew up and studied in Thailand but currently lives in Finland. 
@@ -20,7 +20,7 @@ Check out My page https://www.facebook.com/findingzumo for more information.😆
 <br><br><br>
 
 <div align="center">
-  <img src='https://github-readme-stats.vercel.app/api?username=phornphatch&count_private=trueshow_icons=true&theme=dracula&line_height=40'  align="left" />
+ <img src='https://github-readme-stats.vercel.app/api?username=phornphatch&count_private=trueshow_icons=true&theme=dracula&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=phornphatch&theme=tokyonight&hide_langs_below=4&text_color=fff&title_color=ff6e96' />
 </div>
 
