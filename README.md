@@ -16,7 +16,7 @@
 <br><br>
 I spend all my free time in bed. Not actually sleeping but just laying there for coding, blogging, video editing and watching TV series and movies on Netflix. I also enjoy going for a walk and traveling to new places.
 <br><br>
-Check out My page https://www.facebook.com/findingzumo for more information. 😆
+Check out My page https://www.facebook.com/findingzumo for more information.😆
 <br><br><br>
 
 <div align="center">
