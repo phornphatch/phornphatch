@@ -14,7 +14,7 @@
 <br>engineer turned a coder who is continuously upgrading the coding skill. 
 <br>I grew up and studied in Thailand but currently lives in Finland. 
 <br><br>
-I spend all my free time in bed. Not actually sleeping but just laying there for coding, blogging, video editing and watching TV series and movies on Netflix. I also enjoy going for a walk and traveling to new places.
+I spend all my free time in bed. Not actually sleeping but just laying there for eating, coding, blogging, video editing and watching TV series and movies on Netflix. I also enjoy going for a walk and traveling to new places.
 <br><br>
 Check out My page https://www.facebook.com/findingzumo for more information.😆
 <br><br><br>
