@@ -10,7 +10,7 @@
 
 <h3> Full-Stack Software Developer 🚀</h3>
 <br>
-✨ I dream of shopping and traveling full-time - unless I'm a materials 
+✨  I dream of shopping and traveling full-time - unless I'm a materials 
 <br>engineer turned a coder who is continuously upgrading the coding skill. 
 <br>I grew up and studied in Thailand but currently lives in Finland. 
 <br> <br>
