@@ -8,7 +8,7 @@
 
 <img width="40%" align="right" alt="Github" src="https://github.com/phornphatch/phornphatch/blob/main/assets/profile.jpeg" />
 
-<h3>Full-Stack Software Developer 🚀 </h3>
+<h3>Full-Stack Software Developer 🚀  </h3>
 
 <br>
 ✨  I dream of shopping and traveling full-time - unless I'm a materials 
