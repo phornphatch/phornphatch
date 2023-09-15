@@ -9,7 +9,7 @@
 <img width="40%" align="right" alt="Github" src="https://github.com/phornphatch/phornphatch/blob/main/assets/profile.jpeg" />
 
 <h3>Full-Stack Software Developer 🚀  </h3>
-<h5>work romotely from the happiest country in the world</h5>
+<h5>work romotely from the happiest country in the world, Helsinki, FI</h5>
 <br>
 ✨  I dream of shopping and traveling full-time - unless I'm a materials 
 <br>engineer turned a coder who is continuously upgrading the coding skill. 
