@@ -22,7 +22,7 @@ I spend all my free time in bed. Not actually sleeping but just laying there for
 Check out My page https://www.facebook.com/findingzumo for more information.😆
 <br><br><br>
 
-<div align="center">
+<div align="center" display="hidden">
  <img src='https://github-readme-stats.vercel.app/api?username=phornphatch&count_private=true&show_icons=true&theme=dracula&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=phornphatch&count_private=true&theme=tokyonight&hide_langs_below=4&text_color=fff&title_color=ff6e96' />
 </div>
