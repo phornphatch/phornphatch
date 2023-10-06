@@ -20,9 +20,3 @@
 I spend all my free time in bed. Not actually sleeping but just laying there for eating, coding, blogging, video editing and watching TV series and movies on Netflix. I also enjoy going for a walk and traveling to new places.
 <br><br>
 Check out My page https://www.facebook.com/findingzumo for more information.😆
-<br><br><br>
-
-<div align="center" display="hidden">
- <img src='https://github-readme-stats.vercel.app/api?username=phornphatch&count_private=true&show_icons=true&theme=dracula&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=phornphatch&count_private=true&theme=tokyonight&hide_langs_below=4&text_color=fff&title_color=ff6e96' />
-</div>
