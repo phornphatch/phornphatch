@@ -1,4 +1,4 @@
-# 👋 Hi there!  I'm ZUMO.  
+# 👋 Hi, I'm ZUMO.  
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/phornphatch)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phornphatch)
@@ -19,4 +19,4 @@
 <br> <br>
 I spend all my free time in bed. Not actually sleeping but just laying there for eating, coding, blogging, video editing and watching TV series and movies on Netflix. I also enjoy going for a walk and traveling to new places.
 <br><br>
-Check out My page https://www.facebook.com/findingzumo for more information.😆
+Check out My FB page https://www.facebook.com/findingzumo for more information.😆
