@@ -19,7 +19,7 @@
 <br>My main languages are Ruby on Rails, TypeScript, and JavaScript.
 <br>Even though I can work as a full stack developer, my passion lies in frontend development.
 <br><br>I also love working with UI/UX. All my personal projects, I design them myself.
-<br><br> Check out Projects here ! 
+<br><br> Check out my projects here ! 
 <br>http://findingzumo.com/
 <br>https://planprompt.findingzumo.com/
 
