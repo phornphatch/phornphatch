@@ -20,7 +20,7 @@
 <br>Even though I can work as a full stack developer, my passion lies in frontend development.
 <br><br>I also love working with UI/UX. All my personal projects, I design them myself.
 <br><br> Check out Projects here ! 
-<br>[https://www.facebook.com/findingzumo for more information.😆](http://findingzumo.com/)
+<br>http://findingzumo.com/
 <br>https://planprompt.findingzumo.com/
 
 
