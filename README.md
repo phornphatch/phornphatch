@@ -18,7 +18,7 @@
 <br><br>And now it's been 3 years in this role! 
 <br>My main languages are Ruby on Rails, TypeScript, and JavaScript.
 <br>Even though I can work as a full stack developer, my passion lies in frontend development.
-<br><br>I also love working with UI/UX. All my personal projects, I design them myself.
+<br><br>I also love working with UI/UX design. All my personal projects, I design them myself.
 <br><br> Check out my projects here ! 
 <br>http://findingzumo.com/
 <br>https://planprompt.findingzumo.com/
@@ -27,4 +27,4 @@
 <br> <br>
 I spend all my free time in bed. Not actually sleeping but just laying there for eating, coding, blogging, video editing and watching TV series and movies on Netflix. I also enjoy going for a walk and traveling to new places.
 <br><br>
-Check out My FB page https://www.facebook.com/findingzumo for more information.😆
+Check out My FB page https://www.facebook.com/findingzumo for more information. 😆
