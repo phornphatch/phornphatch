@@ -11,7 +11,7 @@
 
 
 <h3>Full-Stack Software Developer 🚀  </h3>
-<h5>work romotely from the happiest country in the world, Helsinki, Finland</h5>
+<h5>work remotely from the happiest country in the world, Helsinki, Finland</h5>
 <br>
 ✨  I dream of shopping and traveling full-time - unless I'm a materials 
 <br>engineer turned a coder who is continuously upgrading the coding skill.
