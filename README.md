@@ -15,7 +15,7 @@
 <br>
 ✨  I dream of shopping and traveling full-time - unless I'm a materials 
 <br>engineer turned a coder who is continuously upgrading the coding skill.
-<br><br>And now it's been 3+ years in this role! 
+<br><br>And now it's been 4 years in this role! 
 <br>My main tools are Ruby on Rails, TypeScript, and JavaScript.
 <br>Even though I can work as a full stack developer, my passion lies in frontend development.
 <br><br>I also love working with UI/UX design. All my personal projects, I design them myself.
